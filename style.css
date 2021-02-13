@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: #38E05D;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 138px;
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    color: black;
+    padding: 5px;
+}
+
+.special_link {
+
+}
+
+
+
+footer {
+    background-color: #FF5240;
+    padding: 5px;
+}
+footer p {
+    font-size: 20px;
+    background-color: white;
+}
